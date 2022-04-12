@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="240615cc-fb64-4e1c-b950-863c30f4b3f3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27IRfVCExDtkpJPn5ZUID3QECbl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\Module4\Exercise_MD4\MD4-JWBDS-12.jQuery-AJAX.Product-Management.DemoCRUD-uploadFile.FrontEnd" />
+      <recent name="C:\Users\PC\Desktop\Module4\Exercise_MD4\MD4-JWBDS-12.jQuery-AJAX.Product-Management.DemoCRUD-uploadFile.FrontEnd\pages\auth" />
+      <recent name="C:\Users\PC\Desktop\Module4\Exercise_MD4\MD4-JWBDS-11.Web Service-RESTful.Product-Management-DemoCRUD-by-RESTful.FrontEnd" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\Module4\Exercise_MD4\MD4-JWBDS-12.jQuery-AJAX.Product-Management.DemoCRUD-uploadFile.FrontEnd\pages\auth" />
+      <recent name="C:\Users\PC\Desktop\Module4\Exercise_MD4\MD4-JWBDS-12.jQuery-AJAX.Product-Management.DemoCRUD-uploadFile.FrontEnd\pages\product" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="240615cc-fb64-4e1c-b950-863c30f4b3f3" name="Changes" comment="" />
+      <created>1649005717839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649005717839</updated>
+      <workItem from="1649005719011" duration="9064000" />
+      <workItem from="1649145581105" duration="6791000" />
+      <workItem from="1649181400699" duration="6222000" />
+      <workItem from="1649318974153" duration="12000" />
+      <workItem from="1649344861401" duration="57764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
